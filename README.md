@@ -1,10 +1,12 @@
 # Folo The Source
 
 Phase 1 :
-Marvin Louis Weichuan Tran Kevin Flabat.
+*Marvin Louis 
+*Weichuan Tran 
+*Kevin Flabat
 
 
-Les quastions à ce poser:
+Les questions à se poser:
 1 .Les données a affichés en global
     Espace utilisateur ou bénévola-Calendrier-Espace Admin pour le blog barDE recherche- image affiché dynamiquement plateform     music. image music plus boutton player.
     
