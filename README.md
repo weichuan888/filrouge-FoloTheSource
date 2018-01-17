@@ -1,71 +1,86 @@
 # Folo The Source
 
-Phase 1 :
+### Phase 1 :
 
 * Marvin Louis 
 * Weichuan Tran 
 * Kevin Flabat
 
+## Graphique 
 
-Les questions à se poser:
+   * Design épurer 
+   * police: roboto, railway
+   * color: Couleur du site : similaire, moins aggressif.
+
+## Description:
+
+### Interview avec le "Client":
 
 * Qui est le client ?
 
 N’Faly Kouyaté
-
 
 * Quelle est son activité ?
 
 The winner of ‘Talent of Guinea’ (Paris, March 2015, Best group) and again nominated for the Guinean Music Awards (November 2015), N’Faly Kouyaté, is a multi-talented artist coming from a deeply traditional background.
 
 * Quel est les problèmes à résoudre ?
+
+
 * Qui sont les publics cibles ? 
+
+
 * De quel plateforme web avez vous besoin ? 
-* De quoi avez vous besoin ?
-* Quelles informations doivent apparaitre en premier (one page)
-* Voulez vous reprendre la structure des informations disponible sur votre site ?
-* Voulez vous avoir un Blog administrateur ?
-* Avez-vous un lien URL ?
-* Avez vous un nom de domaine sur votre site web ?
-* Quel est le deadline de ce projet ?
-* Votre budget pour ce projet ?
-* Voulez-vous ajouter différentes langues sur votre site ? anglais, francçais,...
-* Avez-vous besoin de vendre vos articles à travers le site ?
-* Quels sont les mots-clés qui identifierait votre site dans la barre de recherche de Google ?
 
-
-1. Les données a affichés en global (Backend):
-
-    * Espace utilisateur (contact) : 
-         * Recevoir les nouvelles actualité via l'adresse email.
-    
-    * Espace Administrateur (CMS):
-         * Gérer le blog : oui pouvoir ajouter, supprimer et modifier les articles de son blog (sans que l'administateur ai besoin de toucher au code)
-         * Calendrier : ajouter, modifier, supprimer des événements
-         * Heberger de la musique
-         * Pas de vente sur le site.
-         * Ajouter une image music avec le bouton player 
-         * Nom de domaine : Folo The Source
-         * Onglets vidéo : avoir une vidéo sur la page, pouvoir switcher les vidéos, les recentrer sur la pages.
-         * Onglets photo: 
-         
-    
-2. Ce qui doit apparaitre sur la premiere page:
+* Quelles informations doivent apparaitre en premier (one page) ?
     * Section :
          * à propos
          * information
          * contact
          * barre de recherche
-         
-    * Langue : Uniquement anglais
-    * Design épurer 
-    * police: roboto, railway
-    * color: Couleur du site : similaire, moins aggressif.
-3. Le contenu:
-    * Disponible sur le site source.
-    * images
+
+* Voulez vous reprendre la structure des informations disponible sur votre site ?
+
+Oui
+
+* Voulez vous avoir un Blog administrateur ?
+
+Oui 
+
+* Avez vous un nom de domaine sur votre site web ?
+
+Oui, c'est Folo The Source.
+
+* Quel est le deadline de ce projet ?
+
+Mi-avril 2018
+
+* Voulez-vous ajouter différentes langues sur votre site ? anglais, francçais,...
+
+Uniquement anglais.
+
+* Avez-vous besoin de vendre vos articles à travers le site ?
+
+Non 
+
+
+## Les données a affichés en global (Backend):
+
+    * Espace utilisateur (contact) : 
+         * Recevoir les nouvelles actualités via l'adresse email.
+    
+    * Espace Administrateur (CMS):
+         * Gérer le blog : ajouter, supprimer et modifier les articles de son blog (sans que l'administateur ai besoin de toucher au code).
+         * Calendrier : ajouter, modifier, supprimer des événements.
+         * Heberger de la musique.
+         * Pas de vente sur le site.
+         * Ajouter une image music avec le bouton player.
+         * Nom de domaine : Folo The Source
+         * Onglets vidéo : avoir une vidéo sur la page, pouvoir switcher les vidéos, les recentrer sur la pages.
+         * Onglets photo: 
+        
   
-  Ce que le client souhaite avoir :
+  ### Ce que le client souhaite avoir :
   
   * Le contenu et les fonctions restent les mêmes
   * plus facile à utiliser
