@@ -10,7 +10,8 @@
 
    * Design épurer 
    * police: roboto, railway
-   * color: Couleur du site : similaire, moins aggressif.
+   * Au niveau des couleurs, c'est assez aggressif, le client souhaite ne pas ternir les couleurs, mais les adourcirs, reprendre des couleurs similaire du site en moins aggressif.
+
 
 ## Description:
 
@@ -38,6 +39,9 @@ The winner of ‘Talent of Guinea’ (Paris, March 2015, Best group) and again n
          * information
          * contact
          * barre de recherche
+    * Home page ? Le même que le site du client, mais avoir un accés plus facile: 
+         * Ajouter le contenu "qui sommes-nous" en quelques mots.
+         * Ajouter un grand texte de qu'on fait.
 
 * Voulez vous reprendre la structure des informations disponible sur votre site ?
 
@@ -65,11 +69,11 @@ Non
 
 
 ## Les données a affichés en global (Backend):
-
-    * Espace utilisateur (contact) : 
+    
+   * Espace utilisateur (contact) : 
          * Recevoir les nouvelles actualités via l'adresse email.
     
-    * Espace Administrateur (CMS):
+   * Espace Administrateur (CMS):
          * Gérer le blog : ajouter, supprimer et modifier les articles de son blog (sans que l'administateur ai besoin de toucher au code).
          * Calendrier : ajouter, modifier, supprimer des événements.
          * Heberger de la musique.
@@ -86,10 +90,7 @@ Non
   * plus facile à utiliser
   * Ajouter un Scroll au site.
   * Le site est un peu étrange, on voudrait le rendre plus classique et agréable.
-  * Au niveau des couleurs, c'est assez aggressif, le client souhaite ne pas ternir les couleurs, mais les adourcirs.
-  * Home page ? Le même que le site du client, mais avoir un accés plus facile: 
-         * Ajouter le contenu "qui sommes-nous" en quelques mots.
-         * Ajouter un grand texte de qu'on fait.
+  
   * Réalisé une One page qui tend vers une multipages tout en gardant le meme contenu et fonctions
   => rendre le site pluis fluide, moins d'informations d'un coup, ajouter des sliders, car le site est trop aggressifs.
   * Réalisé plusieurs maquettes afin que le client puisse décider ce qui lui préfére
