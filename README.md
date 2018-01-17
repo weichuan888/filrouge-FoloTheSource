@@ -48,13 +48,13 @@ Accès vers Facebook, Twitter, Google+, les réseaux sociaux
 
 #### Quelles informations doivent apparaitre en premier (one page) ?
    * Section :
-         * à propos
-         * information
-         * contact
-         * barre de recherche
+        * à propos
+        * information
+        * contact
+        * barre de recherche
    * Home page ? Le même que le site du client, mais avoir un accés plus facile: 
-         * Ajouter le contenu "qui sommes-nous" en quelques mots.
-         * Ajouter un grand texte de qu'on fait.
+        * Ajouter le contenu "qui sommes-nous" en quelques mots.
+        * Ajouter un grand texte de qu'on fait.
 
 #### Voulez vous reprendre la structure des informations disponible sur votre site ?
 
@@ -99,9 +99,7 @@ Non
   
   ### Ce que le client souhaite avoir :
   
-
-  
-  * Réalisé une One page qui tend vers une multipages tout en gardant le meme contenu et fonctions
+  * Réalisé une One page qui tend vers une multipages tout en gardant le meme contenu et les memes fonctions.
   => rendre le site pluis fluide, moins d'informations d'un coup, ajouter des sliders, car le site est trop aggressifs.
   * Réalisé plusieurs maquettes afin que le client puisse décider ce qui lui préfére
   
