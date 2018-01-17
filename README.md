@@ -1,5 +1,14 @@
 # Folo The Source
 
+
+<a href="http://folothesource.com/"> Folo The Source </a>
+
+
+<a href="https://folothesource.com/nfalykouyate/"> N'Faly Kouyaté </a>
+
+
+<a href="https://weichuan888.github.io/Projet-OnePage/"> One Page </a>
+
 ### Phase 1 :
 
 * Marvin Louis 
@@ -17,53 +26,57 @@
 
 ### Interview avec le "Client":
 
-* Qui est le client ?
+#### Qui est le client ?
 
 N’Faly Kouyaté
 
-* Quelle est son activité ?
+#### Quelle est son activité ?
 
 The winner of ‘Talent of Guinea’ (Paris, March 2015, Best group) and again nominated for the Guinean Music Awards (November 2015), N’Faly Kouyaté, is a multi-talented artist coming from a deeply traditional background.
 
-* Quel est les problèmes à résoudre ?
+#### Quel est les problèmes à résoudre ?
 
+  * Les Couleurs sont trop aggressif.
+  * Le site est un peu étrange, on voudrait le rendre plus classique et agréable.
+  * Le contenu et les fonctions restent les mêmes.
+  * plus facile à utiliser
+  * Ajouter un Scroll au site.
 
-* Qui sont les publics cibles ? 
+#### Qui sont les publics cibles ? 
 
+Accès vers Facebook, Twitter, Google+, les réseaux sociaux
 
-* De quel plateforme web avez vous besoin ? 
-
-* Quelles informations doivent apparaitre en premier (one page) ?
-    * Section :
+#### Quelles informations doivent apparaitre en premier (one page) ?
+   * Section :
          * à propos
          * information
          * contact
          * barre de recherche
-    * Home page ? Le même que le site du client, mais avoir un accés plus facile: 
+   * Home page ? Le même que le site du client, mais avoir un accés plus facile: 
          * Ajouter le contenu "qui sommes-nous" en quelques mots.
          * Ajouter un grand texte de qu'on fait.
 
-* Voulez vous reprendre la structure des informations disponible sur votre site ?
+#### Voulez vous reprendre la structure des informations disponible sur votre site ?
 
 Oui
 
-* Voulez vous avoir un Blog administrateur ?
+#### Voulez vous avoir un Blog administrateur ?
 
 Oui 
 
-* Avez vous un nom de domaine sur votre site web ?
+#### Avez vous un nom de domaine sur votre site web ?
 
 Oui, c'est Folo The Source.
 
-* Quel est le deadline de ce projet ?
+#### Quel est le deadline de ce projet ?
 
 Mi-avril 2018
 
-* Voulez-vous ajouter différentes langues sur votre site ? anglais, francçais,...
+#### Voulez-vous ajouter différentes langues sur votre site ? anglais, francçais,...
 
 Uniquement anglais.
 
-* Avez-vous besoin de vendre vos articles à travers le site ?
+#### Avez-vous besoin de vendre vos articles à travers le site ?
 
 Non 
 
@@ -86,10 +99,7 @@ Non
   
   ### Ce que le client souhaite avoir :
   
-  * Le contenu et les fonctions restent les mêmes
-  * plus facile à utiliser
-  * Ajouter un Scroll au site.
-  * Le site est un peu étrange, on voudrait le rendre plus classique et agréable.
+
   
   * Réalisé une One page qui tend vers une multipages tout en gardant le meme contenu et fonctions
   => rendre le site pluis fluide, moins d'informations d'un coup, ajouter des sliders, car le site est trop aggressifs.
@@ -97,11 +107,4 @@ Non
   
  
 
-<a href="http://folothesource.com/"> Folo The Source </a>
-
-
-<a href="https://folothesource.com/nfalykouyate/"> N'Faly Kouyaté </a>
-
-
-<a href="https://weichuan888.github.io/Projet-OnePage/"> One Page </a>
 
